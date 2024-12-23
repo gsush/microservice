@@ -1,5 +1,5 @@
 # Microservice Project setup
-Architecture of the microservice 
+Architecture of the microservice for code checkout main branch
 A small demo is attached
 
 https://github.com/user-attachments/assets/5ba3fbf7-db92-4ecf-a196-5e4003d1e588
