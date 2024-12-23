@@ -1,5 +1,9 @@
 # Microservice Project setup
 Architecture of the microservice 
+A small demo is attached
+
+https://github.com/user-attachments/assets/5ba3fbf7-db92-4ecf-a196-5e4003d1e588
+
 There are two db here one is questiondb and quizdb. questiondb contains all the questions along with the all the details. and quizdb is only accessing the questiondb with id for three methonds getscore,generate quiz and get question. here also question service is running.
 ![image](https://github.com/user-attachments/assets/08fd22ea-515d-4839-8351-4f201ccfd420)
 
